@@ -49,7 +49,8 @@ sections:
         textAlign: center
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: >-
+        /images/young-bearded-man-graphic-designer-confused-expression_1194-17328.jpg
       altText: Image alt text placeholder
       elementId: ''
       styles:
