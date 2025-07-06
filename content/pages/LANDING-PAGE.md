@@ -11,12 +11,14 @@ sections:
         self:
           textAlign: center
     subtitle: ''
-    text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+    text: >+
+      Calling all **1st and 2nd-year undergraduate students** from universities
+      and institutes across **North Bengal** —
+
+
+      If you're passionate about business, full of ideas, and eager to sharpen
+      your strategic skills — **this is your moment!**
+
     actions:
       - type: Button
         label: Register Now
