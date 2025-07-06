@@ -19,7 +19,7 @@ sections:
       anything embarrassing hidden in the middle of text.
     actions:
       - type: Button
-        label: See open positions
+        label: Register Now
         url: /
         icon: arrowRight
         iconPosition: right
