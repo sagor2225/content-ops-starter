@@ -50,7 +50,7 @@ sections:
     media:
       type: ImageBlock
       url: >-
-        /images/young-bearded-man-graphic-designer-confused-expression_1194-17328.jpg
+        /images/customer-service-handsome-young-guy-office-suit-with-laptop-headset-serious-call_140725-164871.jpg
       altText: Image alt text placeholder
       elementId: ''
       styles:
