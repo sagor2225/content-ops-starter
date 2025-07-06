@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: A team that works closely together
+      text: Are You Ready to Unravel Your Potential?
       color: text-dark
       styles:
         self:
